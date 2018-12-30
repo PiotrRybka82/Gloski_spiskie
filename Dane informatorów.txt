@@ -1,0 +1,3 @@
+﻿Oznaczenie mówcy: 	Płeć		Wiek		Miejscowość
+K18-2001-Niedzica	kobieta		ok. 17 lat	Niedzica
+M12-1998-Niedzica	mężczyzna	ok. 20 lat	Niedzica

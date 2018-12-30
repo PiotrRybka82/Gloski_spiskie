@@ -1,0 +1,24 @@
+﻿Numer fragmentu		Informator		Wyrazy z szukaną głoską*
+1024523			K18-2001-Niedzica	tÉgo, środEk, dziadEk, zAczął, tOpić, skOczyli, rAtOwali
+953713			K18-2001-Niedzica	tÉż, maŁy, to Jest, chŁopak, chłopAk, tAk, gÁda
+953846			K18-2001-Niedzica	tÉż, Jak, czy Jak, jÁ, gÁdką, sObą, gÁdały, gadaŁy
+954538			K18-2001-Niedzica	wtEdy, tÉż, bAbka, zOstaje, zostaJe
+953836			K18-2001-Niedzica	bAbkA, trOszeczke, AlE, zA, dUżo, A, gÓtkA, gAdA, wszYstkich, pO
+954027			K18-2001-Niedzica	ktO, kUpOwać, brAtA, hEt, gAzdÓwkA
+954195			K18-2001-Niedzica	OpOwiadała, żE, pOtem, krOwY, Od, dziadkÓw, dOstała, dOpłakano, krOwy, pOtraciły
+954398			K18-2001-Niedzica	Otworzyła, tAta, ścigÁł
+954144			K18-2001-Niedzica	bAbka, dÁwniej, chodzIlI
+954796			K18-2001-Niedzica	tAk, kOpalI, przychodzIlI
+954721			K18-2001-Niedzica	tYch
+953905			K18-2001-Niedzica	trYbszA, tYle, zamkU
+953565			K18-2001-Niedzica	bUtY, wIgoń
+1539203			M12-1998-Niedzica	tÉż, przyzwYczaJenia, pOcIsną, bO, tO, praktYcznie, wszYscy, gÁdaJą
+1539140			M12-1998-Niedzica	chOdzą, gŁównie, tO, gÓrAlE, spiszÁki
+1539311			M12-1998-Niedzica	tÉż, I, wYchodzi, psA, tO, byŁo
+1539464			M12-1998-Niedzica	tO, byŁ, wYkOpYwany, bO, tO, byŁ, dAwno
+1539237			M12-1998-Niedzica	rÓżnie, Ugadujemy, pOgÁdamy, U
+1539219			M12-1998-Niedzica	gŁównie, tO, wŁaśnie, kolegÓw, tO, niedzicY
+1539348			M12-1998-Niedzica	zA, pAs, byŁo, bEz, pŁot, skÁkać, braŁo, chUdY
+1539448			M12-1998-Niedzica	neJI, tÉż, rÓżne, zEspoŁy, byŁy, JakbY, odgrYwaŁo
+
+*) Zastosowane oznaczenia wskazują na etymologię głoski.
